@@ -4,7 +4,7 @@
 
 Esse foi o desafio proposto na aula The Next Level no evento *Next Level Week* (NLW) da Rocketseat.
 
-🔗 [Clique aqui para ver]()
+🔗 [Clique aqui para ver](https://matheusfdosan.github.io/nlw-project-movies/)
 
 ## Tecnologias
 
